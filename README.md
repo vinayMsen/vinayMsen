@@ -3,18 +3,16 @@
 
 I'm **Vinay Sen** — a curious learner and developer from **India**. 🚀
 
-Role: Learner & Developer — focused on web basics and C++ (OOP) while building small projects and sharpening practical skills. 
+  Learner & Developer — focused on .NET Core and C#  while building small projects and sharpening practical skills. 
 
-Tagline: "Learning one project at a time." 🎯
+ "Learning one project at a time." 🎯
 
 ## About Me
 
-### About Me
 
 - Bio: "Learning!" — always exploring new tools, patterns and improving through hands-on projects. 📚
 - Location: Rewa, India 🇮🇳
-- GitHub: [vinayMsen](https://github.com/vinayMsen)
-- LinkedIn / Blog: https://www.linkedin.com/in/vinaysen/ 🔗
+- Mid Slow Learner
 
 Quick snapshot:
 
@@ -24,7 +22,7 @@ Quick snapshot:
 
 Currently learning & focusing on:
 
-- C# (OOP patterns, SOLID Principles) 🧠
+- C# (SOLID Principles) 🧠
 - ASP.NET Core  🌐
 
 Open to collaborating on learning-focused projects and internships. 🤝
@@ -73,9 +71,7 @@ html,css,cpp,,js,git,github,C#,C++, ASP.NET Core
 Notes:
 - These projects highlight a focus on fundamentals — web front-end (HTML/CSS) and C++ practice. 🔧 -->
 
-## GitHub Stats
-
-### GitHub Stats 📊
+## GitHub Stats 📊
 
 - Public repositories: **11**
 - Followers: **11**
@@ -91,11 +87,9 @@ Profile cards:
 - GitHub Readme Stats: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayMsen&show_icons=true&hide_title=true)
 - Top Languages: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayMsen&layout=compact&hide_title=true)
 
-(You can include these images directly in your README to show live GitHub stats.)
+<!--
 
-## Recent Activity
-
-### Recent GitHub Activity 🔔
+## Recent Activity 🔔
 
 Here are the latest public events from the account:
 
@@ -104,6 +98,9 @@ Here are the latest public events from the account:
 
 2. WatchEvent — Started watching **imvish21/Cryptopod-app**
    - When: 2026-03-10T12:58:24Z
+-->
+
+
 <!--
 (These are the most recent recorded events; connect your activity feeds for more updates and live badges.)
 
@@ -117,16 +114,14 @@ Here are the latest public events from the account:
 If you maintain a personal blog or publish articles, you can add RSS or link them here for automatic listing.
 
 ## Connect with Me
--->
+
 ### Let's connect! 🤝
 
 - GitHub: [@vinayMsen](https://github.com/vinayMsen) 🐙
 - LinkedIn: [Vinay Sen](https://www.linkedin.com/in/vinaysen/) 🔗
-
+-->
 
 Badges:
 
 - LinkedIn: ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
 - GitHub: ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
-
-Note: Twitter handle not provided. For collaboration or questions, feel free to reach out via LinkedIn or open an issue on any repo. ✉️
