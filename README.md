@@ -85,7 +85,8 @@ Badges & cards:
 Profile cards:
 
 - GitHub Readme Stats: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayMsen&show_icons=true&hide_title=true)
-- Top Languages: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayMsen&hide=C++,C#,JavaScript&theme=dracula)](https://github.com/avinayMsen/github-readme-stats)
+- Top Languages: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayMsen&theme=tokyonight)
+
 
 <!--
 
