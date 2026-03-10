@@ -115,9 +115,9 @@ If you maintain a personal blog or publish articles, you can add RSS or link the
 -->
 ## Connect with Me🤝
 
-- GitHub: [@vinayMsen](https://github.com/vinayMsen)(https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)🐙
-- LinkedIn: [Vinay Sen](https://www.linkedin.com/in/vinaysen/) (https://img.shields.io/badge/GitHub-Profile-black?logo=github)🔗
-  
+- GitHub: [vinayMsen](https://github.com/vinayMsen)[](https://img.shields.io/badge/GitHub-Profile-black?logo=github)🔗
+
+- LinkedIn: [Vinay Sen](https://www.linkedin.com/in/vinaysen/)[](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)🐙
 <!--
 Badges:
 
