@@ -13,12 +13,12 @@ I'm **Vinay Sen** — a curious learner and developer from **India**. 🚀
 - Bio: "Learning!" — always exploring new tools, patterns and improving through hands-on projects. 📚
 - Location: Rewa, India 🇮🇳
 - Mid Slow Learner
-
+<!--
 Quick snapshot:
 
 - Public repositories: **11**
 - Followers: **11**
-- Following: **17**
+- Following: **17** -->
 
 Currently learning & focusing on:
 
