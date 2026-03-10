@@ -84,8 +84,7 @@ Badges & cards:
 
 Profile cards:
 
-- GitHub Readme Stats: ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayMsen)](https://github.com/vinayMsen/github-readme-stats)
-
+- GitHub Readme Stats: ![](https://github-readme-stats.vercel.app/api?username=vinayMsen)
 
 
 <!--
@@ -113,15 +112,13 @@ Here are the latest public events from the account:
 - LinkedIn (profile / posts): https://www.linkedin.com/in/vinaysen/ — use this to view posts, articles or updates from Vinay.
 
 If you maintain a personal blog or publish articles, you can add RSS or link them here for automatic listing.
-
-## Connect with Me
-
-### Let's connect! 🤝
-
-- GitHub: [@vinayMsen](https://github.com/vinayMsen) 🐙
-- LinkedIn: [Vinay Sen](https://www.linkedin.com/in/vinaysen/) 🔗
 -->
+## Connect with Me🤝
 
+- GitHub: [@vinayMsen](https://github.com/vinayMsen)(https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)🐙
+- LinkedIn: [Vinay Sen](https://www.linkedin.com/in/vinaysen/) (https://img.shields.io/badge/GitHub-Profile-black?logo=github)🔗
+  
+<!--
 Badges:
 
 - LinkedIn: ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
