@@ -29,7 +29,7 @@ Open to collaborating on learning-focused projects and internships. 🤝
 
 ## Skills & Technologies
 
-HTML5 , CSS , C++ , JAVASCRIPT , Git , Github , C# , ASP.NET Core
+HTML5 , CSS , C++ , JavaScript , Git , Github , C# , ASP.NET Core ,SQL & SQL Server , MySQL , Linux , VSCode 
 <!--
 ## Top Projects
 
