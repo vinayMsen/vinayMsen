@@ -13,6 +13,9 @@ I'm **Vinay Sen** — a curious learner and developer from **India**. 🚀
 - Bio: "Learning!" — always exploring new tools, patterns and improving through hands-on projects. 📚
 - Location: Rewa, India 🇮🇳
 - Mid Slow Learner
+
+## 🌐 Live Demo
+[View Portfolio](https://yourname.netlify.app)
 <!--
 Quick snapshot:
 
