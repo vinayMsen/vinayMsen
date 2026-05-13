@@ -15,7 +15,7 @@ I'm **Vinay Sen** — a curious learner and developer from **India**. 🚀
 - Mid Slow Learner
 
 ## 🌐 Live Demo
-[View Portfolio](https://yourname.netlify.app)
+[View Portfolio](https://vinaymiles.netlify.app)
 <!--
 Quick snapshot:
 
